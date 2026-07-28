@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://froster.github.io/blog/"
+baseurl = "https://frostar.github.io/blog/"
 locale  = "zh-cn"
 title   = "Hugo Theme Stack Starter"
 
