@@ -6,7 +6,7 @@ image:
 math: 
 license: 
 comments: true
-draft: true
+draft: false
 categories: ["数据库"]
 tags: ["postgres", "sql", "数据库"]
 build:

@@ -6,7 +6,7 @@ image:
 math: 
 license: 
 comments: true
-draft: true
+draft: false
 categories: ["Godot"]
 tags: ["godot", "gamedev"]
 build:

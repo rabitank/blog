@@ -6,7 +6,7 @@ image:
 math: true
 license: 
 comments: true
-draft: true
+draft: false
 categories: ["Godot"]
 tags: ["shader", "godot", "技术美术"]
 build:
